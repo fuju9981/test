@@ -3,3 +3,5 @@ test
 remorte test
 
 local test
+
+local test 2
