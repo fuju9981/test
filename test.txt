@@ -4,4 +4,8 @@ remorte test
 
 local test
 
+<<<<<<< HEAD
 local test 2 ìŽÒ’Ç‰Á
+=======
+local test 2
+>>>>>>> a0355809d5915c8d4cd53a74a359e1b2b9a377de
